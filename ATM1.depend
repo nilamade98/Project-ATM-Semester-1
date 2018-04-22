@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1482837205 source:d:\tgs\atm1\atm1.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1483797339 source:d:\atm1\atm1.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+

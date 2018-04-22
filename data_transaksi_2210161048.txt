@@ -1,0 +1,4 @@
+Dec 28 2016,08:23:37,"Transaksi transfer dari rekening NILAM ADE PANGESTU Sebesar 50000"
+Dec 28 2016,08:25:43"Transaksi ubah pin menjadi 888888"
+Dec 28 2016,09:29:04,"Transaksi transfer dari rekening NILAM ADE PANGESTU Sebesar 1500000"
+Jan  9 2017,08:03:12,"Transaksi transfer dari rekening NILAM ADE PANGESTU Sebesar 150000"
